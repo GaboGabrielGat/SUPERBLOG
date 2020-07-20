@@ -4,6 +4,12 @@
 	textalign: "center";
 	font-family: "Arial";
 }
+#Cabecera
+{
+	background: #339;
+	color: #ff7f50;
+	padding: 0.5em;
+}
 #container
 {
 	width: 70%;
